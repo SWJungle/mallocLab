@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "algorithm": "c",
+        "functional": "c",
+        "istream": "c",
+        "stdexcept": "c"
+    }
+}
